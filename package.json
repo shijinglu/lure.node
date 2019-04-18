@@ -1,0 +1,13 @@
+{
+  "name": "lure",
+  "version": "1.0.0",
+  "description": "Lu's Rule Engine",
+  "main": "index.js",
+  "scripts": {
+    "install": "node-gyp rebuild"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "nan": "latest"
+  }
+}
